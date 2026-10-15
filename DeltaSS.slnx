@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DeltaPayload/DeltaPayload.vcxproj" Id="b8f7f20a-9e67-4694-8373-5fbf380bf141" />
+  <Project Path="DeltaSS/DeltaSS.vcxproj" Id="fd63340d-0037-4a21-a6b7-0ca3073eed1f" />
+</Solution>
